@@ -1,0 +1,632 @@
+bgm_offset=490
+mkr_offset=860
+s_pos=0
+high_score=0
+level=10
+bpm=150
+
+1
+156x |1234|
+x7x2 |5678|
+3x8x
+xxx4
+
+dxxh
+exai
+fbxj |9abc|
+g9ck |defghijk|
+2
+81x8 |1-2-|
+x33x |3-4-|
+6x27 |567-|
+x459 |8-9-|
+3
+8338 |1-2-|
+xxx2 |3-4-|
+6197 |567-|
+4x5x |8-9-|
+4
+x33x |1-2-|
+xx2x |3-4-|
+xxxx
+41x1
+
+8xx8
+6xx5
+xxxx |567-|
+xx79 |8-9-|
+5
+x33x |1-2-|
+xxxx |3-4-|
+x1x2
+4xxx
+
+8xx8
+xx7x
+6xx9 |567-|
+xx59 |8-9-|
+6
+8338 |1-2-|
+xxx5 |3-4-|
+6127 |567-|
+419x |8-9-|
+7
+x33x |1-2-|
+xxxx |3-4-|
+4x2x
+x1x1
+
+8xx8
+xx5x
+x69x |567-|
+xx7x |8-9-|
+8
+8338 |1-2-|
+x5x1 |3-4-|
+7964 |567-|
+21x1 |8-9-|
+9
+8338 |1-2-|
+x5xx |3-4-|
+xx96 |567-|
+2741 |8-9-|
+10
+714x |123-|
+1xa2 |456-|
+b58x |789-|
+39c6 |abc-|
+11
+x1a4 |123-|
+75x2 |456-|
+bx8x |789-|
+39c6 |abc-|
+12
+11xa |123-|
+b742 |456-|
+x58x |789-|
+39c6 |abc-|
+13
+x1xx |123-|
+xx24 |456-|
+x5xx
+3xx6
+
+xxxx
+x7ax
+bx8x |789-|
+x9cx |abc-|
+14
+71ax |123-|
+1x84 |456-|
+b5x2 |789-|
+39c6 |abc-|
+15
+x1xx |123-|
+17a4 |456-|
+b582 |789-|
+39c6 |abc-|
+16
+714a |123-|
+17x2 |456-|
+b5x8 |789-|
+39c6 |abc-|
+17
+714a |123-|
+17a4 |456-|
+b528 |789-|
+39c6 |abc-|
+18
+x32x |1--2|
+3xx2 |--3-|
+x1xx
+1xxx
+
+xxxx
+xxxx
+5xx6 |45-6|
+7564 |-7--|
+19
+5432 |1234|
+xxx8 |5678|
+716x
+xxxx
+
+xxxg
+9xxx
+xfxe |9abc|
+dcba |defg|
+20
+1x2x |1234|
+x3x6 |5678|
+5x4x
+x7x8
+
+xxxe
+dfax
+xbxg |9abc|
+9xcx |defg|
+21
+133x |1-2-|
+xxxx |3-4-|
+1xxx
+x4x2
+
+8xx8
+xx5x
+x69x |567-|
+xx7x |8-9-|
+22
+6337 |1-2-|
+xxx4 |3-4-|
+6xx7 |5--6|
+1552 |--7-|
+23
+x32x |1--2|
+3xx2 |--3-|
+x1xx
+1xxx
+
+xxxx
+xxxx
+5xx6 |45-6|
+7564 |-7--|
+24
+5432 |1234|
+xxx8 |5678|
+716x
+xxxx
+
+xxxg
+9xxx
+xfxe |9abc|
+dcba |defg|
+25
+1x2x |1234|
+x3x6 |5678|
+5x4x
+x7x8
+
+xxxe
+dfax
+xbxg |9abc|
+9xcx |defg|
+26
+133x |1-2-|
+xxxx |3-4-|
+1x2x
+4xxx
+
+8xx8
+x65x
+x9xx |567-|
+xx7x |8-9-|
+27
+x33x |1-2-|
+2xx4 |3-4-|
+xxxx
+xxx1
+
+xxxx
+x65x
+8x79 |567-|
+x89x |8-9-|
+28
+x32x |1--2|
+3xx2 |--3-|
+x1xx
+1xxx
+
+xxxx
+xxxx
+5xx6 |45-6|
+7564 |-7--|
+29
+5432 |1234|
+xxx8 |5678|
+716x
+xxxx
+
+xxxg
+9xxx
+xfxe |9abc|
+dcba |defg|
+30
+1x2x |1234|
+x3x6 |5678|
+5x4x
+x7x8
+
+xxxe
+dfax
+xbxg |9abc|
+9xcx |defg|
+31
+1234 |1---|
+xxxx |2---|
+xxxx |3---|
+xxxx |4---|
+32
+xxxx |1---|
+xxxx |2---|
+xxxx |3---|
+4321 |4---|
+33
+x87x |1234|
+2xxx |5678|
+x63x
+x415
+
+cxx9
+gfed
+axxb |9abc|
+hijk |defghijk|
+34
+7227 |1---|
+x4xx |2-3-|
+3115 |456-|
+6x8x |7-8-|
+35
+8338 |1-2-|
+xx52 |3-4-|
+419x |567-|
+x67x |8-9-|
+36
+8338 |1-2-|
+xx5x |3-4-|
+4692 |567-|
+1x7x |8-9-|
+37
+x33x |1-2-|
+8x58 |3-4-|
+469x |567-|
+1x72 |8-9-|
+38
+2x6x |1-2-|
+x4x8 |3-4-|
+xxxx |5-6-|
+1357 |7-8-|
+39
+2266 |1-23|
+44xx |4567|
+5511
+3377
+
+xxxx
+xx89
+xxab |8-9-|
+xxxx |a-b-|
+40
+xxxx |1-2-|
+1x34 |3-4-|
+21xx
+xx3x
+
+xxxx
+87xx
+xx56 |5-6-|
+x7x5 |7-8-|
+41
+6622 |1-23|
+xx44 |4567|
+1155
+7733
+
+xxxx
+98xx
+baxx |8-9-|
+xxxx |a-b-|
+42
+xxxx |1-2-|
+4312 |3-4-|
+xxx1
+x3xx
+
+xxxx
+xx78
+65xx |5-6-|
+5x7x |7-8-|
+43
+2266 |1-23|
+44xx |4567|
+5511
+3377
+
+xxxx
+xx89
+xxab |8-9-|
+xxxx |a-b-|
+44
+xxxx |1-2-|
+1x34 |3-4-|
+21xx
+xx3x
+
+xxxx
+87xx
+xx56 |5-6-|
+x7x5 |7-8-|
+45
+6622 |1-23|
+xx44 |4567|
+1155
+7733
+
+xxxx
+98xx
+baxx |8-9-|
+xxxx |a-b-|
+46
+xxxx |1-2-|
+x312 |3-4-|
+xxxx
+431x
+
+65xx
+xx78
+x57x |5-6-|
+xxxx |7-8-|
+47
+8x3x |1234|
+24xx |5678|
+xxx1
+6x75
+
+xfe9
+gxxx
+cxad |9abc|
+xbxx |defg|
+48
+4xxx |1234|
+x325 |5678|
+8xxx
+x761
+
+xdx9
+gfex
+xabc |9abc|
+xxxx |defg|
+49
+axxb |1---2345|
+xxx1 |6789a-b-|
+6789
+2345
+
+xcdx
+eghf
+xxxx |cdef|
+ixxj |ghij|
+50
+5xx8 |1234|
+xxxx |5678|
+1674
+x23x
+
+xabx
+9efc
+dxxg |9abc|
+xxxx |defg|
+51
+1678 |1234|
+5xxx |5678|
+x2xx
+xx34
+
+dxxx
+xxfc
+9ebg |9abc|
+xaxx |defg|
+52
+x465 |1-23|
+b7d8 |4567|
+fa9c |89ab|
+1e32 |cdef|
+53
+8x21 |1234|
+x3x5 |5678|
+x76x
+4xxx
+
+xxxd
+cfex
+xxx9 |9abc|
+gbax |defg|
+54
+523x |1234|
+xxx4 |5678|
+16x8
+xx7x
+
+xexc
+9xfx
+dxbx |9abc|
+xaxg |defg|
+55
+4xxx |1-23|
+xxxx |4567|
+7652
+1x3x
+
+xcx8
+9abx
+xxxx |89ab|
+xfed |cdef|
+56
+xx65 |1234|
+x7x1 |5678|
+832x
+4xxx
+
+gxxx
+cxad
+xfe9 |9abc|
+xbxx |defg|
+57
+x6xx |1234|
+x27x |5678|
+5xx8
+1x34
+
+dxfc
+9exg
+xxbx |9abc|
+xaxx |defg|
+58
+xxxx |1234|
+5x7x |5678|
+12x8
+x634
+
+xfec
+xaxd
+gxbx |9abc|
+9xxx |defg|
+59
+5xxx |1234|
+1638 |5678|
+x274
+xxxx
+
+xx9x
+gxex
+xfxx |9abc|
+cbad |defg|
+60
+34x1 |1234|
+x2xx |5678|
+6xx5
+87xx
+
+xxxd
+cfex
+xbxg |9abc|
+xxa9 |defg|
+61
+462c |1234|
+8aeg |5678|
+791f |9abc|
+35db |defg|
+62
+2266 |1-23|
+44xx |4567|
+551x
+3377
+
+xxxx
+xx89
+xxab |8-9-|
+xxxx |a-b-|
+63
+xxxx |1-2-|
+1x34 |3-4-|
+21xx
+xx3x
+
+xxxx
+87xx
+xx56 |5-6-|
+x7x5 |7-8-|
+64
+6622 |1-23|
+xx44 |4567|
+1155
+7733
+
+xxxx
+98xx
+baxx |8-9-|
+xxxx |a-b-|
+65
+xxxx |1-2-|
+4312 |3-4-|
+xxx1
+x3xx
+
+xxxx
+xx78
+65xx |5-6-|
+5x7x |7-8-|
+66
+2266 |1-23|
+44xx |4567|
+5511
+3377
+
+xxxx
+xx89
+xxab |8-9-|
+xxxx |a-b-|
+67
+xxxx |1-2-|
+1x34 |3-4-|
+21xx
+xx3x
+
+xxxx
+87xx
+xx56 |5-6-|
+x7x5 |7-8-|
+68
+6622 |1-23|
+xx44 |4567|
+1155
+7733
+
+xxxx
+98xx
+baxx |8-9-|
+xxxx |a-b-|
+69
+6237 |1234|
+cgbf |5678|
+ea15 |9abc|
+849d |defg|
+70
+246x |1-23|
+8ab9 |4567|
+xx11 |8-9-|
+357x |a-b-|
+71
+x642 |1-23|
+9ba8 |4567|
+11xx |8-9-|
+x753 |a-b-|
+72
+246b |1-23|
+8xxx |4567|
+xa11 |8-9-|
+3579 |a-b-|
+73
+xxxx |1-23|
+x642 |4567|
+1753
+1xxx
+
+9xxa
+xxxx
+xxxx |8-9-|
+bx8x |a-b-|
+74
+xxxx |1-23|
+246x |4567|
+3571
+xxx1
+
+8xx9
+xxxx
+xxxb |8-9-|
+xaxx |a-b-|
+75
+x1xx |1234|
+3746 |5678|
+5xxx
+xx82
+
+9dag
+xxxx
+xbxc |9abc|
+fxxe |defg|
+76
+xxxx |1---|
+1x1x |----|
+1x1x |----|
+x1xx |----|

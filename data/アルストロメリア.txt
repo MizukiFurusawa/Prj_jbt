@@ -1,0 +1,507 @@
+bgm_offset=750
+mkr_offset=500
+s_pos=50100
+high_score=0
+level=9
+bpm=144
+
+1
+x11x |1-23|
+xxxx |4567|
+37x4
+2562
+
+ebce
+x9ax
+xx8x |89ab|
+dxxd |cd-e|
+2
+ebce |-123|
+79a8 |4567|
+5346 |89ab|
+d12d |cd-e|
+3
+bdec |-123|
+978a |4567|
+3564 |89ab|
+f12f |cdef|
+4
+2xx1 |----|
+xxxx |----|
+x12x |1---|
+xxxx |2---|
+5
+x11x |1-23|
+xxxx |4567|
+37x4
+2562
+
+ebce
+x9ax
+xx8x |89ab|
+dxxd |cd-e|
+6
+ebce |-123|
+79a8 |4567|
+5346 |89ab|
+d12d |cd-e|
+7
+xxxx |-123|
+x7xx |4567|
+3564
+x12x
+
+bdec
+9x8a
+fxxf |89ab|
+xxxx |cdef|
+8
+xxxx |----|
+xxxx |----|
+xxxx |----|
+xxxx |----|
+9
+1xxx |1--2|
+x21x |--3-|
+3xx2 |----|
+xx3x |----|
+10
+xx44 |--1-|
+xx2x |-2--|
+xx33 |3--4|
+xx1x |----|
+11
+1xxx |1--2|
+x21x |--3-|
+3xx2 |----|
+xx3x |----|
+12
+xx44 |--1-|
+xx2x |-2--|
+xx33 |3--4|
+xx1x |----|
+13
+1xxx |1--2|
+621x |--3-|
+3x52 |--4-|
+4x3x |5-6-|
+14
+xx3x |1-23|
+x42x |-4-5|
+11xx
+xx5x
+
+xxxx
+67xx
+xxxx |----|
+xxxx |--67|
+15
+2xx3 |1--2|
+6x16 |--3-|
+xxxx |4--5|
+5xx4 |---6|
+16
+xxxx |----|
+xxxx |----|
+1x3x |--1-|
+x2xx |2-3-|
+17
+x345 |1--2|
+xx2x |--3-|
+x1xx |----|
+xxxx |--45|
+18
+xxxx |----|
+xx4x |--1-|
+x153 |2-3-|
+xx2x |4-5-|
+19
+x2xx |1--2|
+xx41 |--3-|
+3x5x |----|
+xxxx |--45|
+20
+xxxx |1---|
+x4xx |----|
+xx3x |--2-|
+x21x |3-4-|
+21
+2x1x |1---|
+xx1x |--2-|
+xxxx
+xxxx
+
+x366
+xx45
+xxxx |3-4-|
+xxxx |5-6-|
+22
+5x5x |--1-|
+xxxx |--2-|
+142x |--3-|
+x3xx |4--5|
+23
+xxxx |----|
+5432 |--1-|
+x1xx |2-3-|
+xxxx |4-5-|
+24
+xxxx |1--2|
+xxxx |--3-|
+3344 |4---|
+1xx2 |----|
+25
+x1x6 |1---|
+x516 |--2-|
+34xx |3-4-|
+2xxx |5-6-|
+26
+xxxx |----|
+xx2x |----|
+1xxx |----|
+xxxx |1--2|
+27
+xx4x |----|
+x3xx |--1-|
+5x2x |2-3-|
+x1xx |4-5-|
+28
+xxxx |1--2|
+6722 |--34|
+543x |5---|
+xx11 |--67|
+29
+xx11 |1--2|
+xxxx |--34|
+xx22
+x43x
+
+6xx6
+6xx6
+xxxx |5---|
+5xxx |---6|
+30
+xxxx |----|
+xxxx |----|
+xxxx |----|
+xxxx |----|
+31
+1x4x |1234|
+7xxx |5678|
+5x28
+3xx6
+
+bdex
+xfga
+xxxx |9abc|
+x9cx |defg|
+32
+7xx2 |1234|
+3xx6 |5678|
+x5xx
+1x84
+
+xdex
+xfgx
+9xac |9abc|
+bxxx |defg|
+33
+3x81 |1234|
+xxx6 |5678|
+52xx
+x74x
+
+gdxe
+9xxx
+xfcx |9abc|
+bxxa |defg|
+34
+xxxx |1---|
+2x41 |--2-|
+2xx1 |----|
+x3xx |3-4-|
+35
+1x4x |1234|
+7xxx |5678|
+5x28
+3xx6
+
+bdex
+xfga
+xxxx |9abc|
+x9cx |defg|
+36
+7xx2 |1234|
+3xx6 |5678|
+x5xx
+1x84
+
+xdex
+xfgx
+9xac |9abc|
+bxxx |defg|
+37
+3x81 |1234|
+xxx6 |5678|
+52xx
+x74x
+
+gdxe
+9xxx
+xfcx |9abc|
+bxxa |defg|
+38
+x44x |1--2|
+x11x |--3-|
+2xx2 |4---|
+x33x |----|
+39
+1x41 |1--2|
+2x52 |--3-|
+3x63 |4--5|
+xxxx |--6-|
+40
+x761 |1-23|
+x673 |-45-|
+x485 |6--7|
+x2xx |--8-|
+41
+1x41 |1--2|
+2x52 |--3-|
+3x63 |4--5|
+xxxx |--6-|
+42
+x761 |1-23|
+x673 |-45-|
+x485 |6--7|
+x2xx |--8-|
+43
+1x41 |1--2|
+2x52 |--3-|
+3x63 |4--5|
+xxxx |--6-|
+44
+x761 |1-23|
+x673 |-45-|
+x485 |6--7|
+x2xx |--8-|
+45
+1441 |1--2|
+2552 |--3-|
+3663 |4--5|
+xxxx |--6-|
+46
+xxxx |1--2|
+2442 |--3-|
+3553 |4--5|
+1661 |--6-|
+47
+3333 |1---|
+xxxx |--2-|
+x22x |----|
+1xx1 |---3|
+48
+xxxx |----|
+xxxx |----|
+xxxx |----|
+xxxx |----|
+49
+1x4x |1234|
+7xxx |5678|
+5x28
+3xx6
+
+bdex
+xfga
+xxxx |9abc|
+x9cx |defg|
+50
+7xx2 |1234|
+3xx6 |5678|
+x5xx
+1x84
+
+xdex
+xfgx
+9xac |9abc|
+bxxx |defg|
+51
+3x81 |1234|
+xxx6 |5678|
+52xx
+x74x
+
+gdxe
+9xxx
+xfcx |9abc|
+bxxa |defg|
+52
+xxxx |1---|
+2x41 |--2-|
+2xx1 |----|
+x3xx |3-4-|
+53
+1x4x |1234|
+7xxx |5678|
+5x28
+3xx6
+
+bdex
+xfga
+xxxx |9abc|
+x9cx |defg|
+54
+7xx2 |1234|
+3xx6 |5678|
+x5xx
+1x84
+
+xdex
+xfgx
+9xac |9abc|
+bxxx |defg|
+55
+3x81 |1234|
+xxx6 |5678|
+52xx
+x74x
+
+gdxe
+9xxx
+xfcx |9abc|
+bxxa |defg|
+56
+xxxx |1--2|
+x11x |--34|
+2x42
+x3xx
+
+x55x
+xx7x
+x6xx |5---|
+xxxx |--67|
+57
+1x4x |1234|
+7xxx |5678|
+5x28
+3xx6
+
+bdex
+xfga
+xxxx |9abc|
+x9cx |defg|
+58
+7xx2 |1234|
+3xx6 |5678|
+x5xx
+1x84
+
+xdex
+xfgx
+9xac |9abc|
+bxxx |defg|
+59
+3x81 |1234|
+xxx6 |5678|
+52xx
+x74x
+
+gdxe
+9xxx
+xfcx |9abc|
+bxxa |defg|
+60
+xxxx |1---|
+2x41 |--2-|
+2xx1 |----|
+x3xx |3-4-|
+61
+1x4x |1234|
+7xxx |5678|
+5x28
+3xx6
+
+bdex
+xfga
+xxxx |9abc|
+x9cx |defg|
+62
+7xx2 |1234|
+3xx6 |5678|
+x5xx
+1x84
+
+xdex
+xfgx
+9xac |9abc|
+bxxx |defg|
+63
+3x81 |1234|
+xxx6 |5678|
+52xx
+x74x
+
+gdxe
+9xxx
+xfcx |9abc|
+bxxa |defg|
+64
+xxxx |1--2|
+2xx2 |--3-|
+1xx1
+x33x
+
+xxx5
+x446
+xxx7 |4---|
+xxx8 |5678|
+65
+x11x |1-23|
+x67x |4567|
+x45x
+x23x
+
+edde
+cxxx
+axxb |89ab|
+8xx9 |cd-e|
+66
+ebce |-123|
+79a8 |4567|
+5346 |89ab|
+d12d |cd-e|
+67
+bdec |-123|
+978a |4567|
+3564 |89ab|
+f12f |cdef|
+68
+2xx1 |----|
+xxxx |----|
+x12x |1---|
+xxxx |2---|
+69
+x11x |1-23|
+xxxx |4567|
+37x4
+2562
+
+ebce
+x9ax
+xx8x |89ab|
+dxxd |cd-e|
+70
+ebce |-123|
+79a8 |4567|
+5346 |89ab|
+d12d |cd-e|
+71
+x7xx |-123|
+x56x |4567|
+x34x
+x12x
+
+9x8a
+bxxc
+dffe |89ab|
+xffx |cdef|

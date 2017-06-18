@@ -1,0 +1,4 @@
+s_pos=71820
+high_score=0
+level=0
+bpm=0
